@@ -28,7 +28,7 @@ rm -rf  ~/.minikube
 
 minikube dashboard
 ```
-kubectl create secret docker-registry dockersecret --docker-server=https://index.docker.io/v1/ --docker-username=atppath --docker-password=ashu2012 
+kubectl create secret docker-registry dockersecret --docker-server=https://index.docker.io/v1/ --docker-username=xxxxx --docker-password=xxxxx 
  
 
 
